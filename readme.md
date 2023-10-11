@@ -1,6 +1,6 @@
 # opus-nlp-downloader
 
-Download aligned text automatly.
+Download aligned text automatically.
 
 # Installation
 
